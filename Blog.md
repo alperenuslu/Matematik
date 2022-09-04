@@ -1,0 +1,4 @@
+# Matematik
+* Matematik ilginç bir alan ve herşey matematiğe dayalıdır. Burada ben türev ve integrale değineceğim.
+* Türev, bir şeyin bir diğer şeye göre değişim miktardır. Yani türev, "değişim"i ölçmek için kullanılır. Genellikle türevi bir şeyin zaman geçtikçe ne kadar değiştiğini hesaplamak veya ifade etmek için kullanırız. İntegral ise, belli bir aralıktaki toplam değişimi, ya da "biriken değişim miktarını" ifade etmek için kullanılır.
+* Her ikisininde gerçek hayatta örnekleri vardır. Bünyesinde değişim olan her şeyin özü, türeve dayanmaktadır. İntegral ise, bir eğrinin altında kalan her şeyin toplamıdır. Zaten tanımı gereği, integralin "iki aralık arasında değişen bir değişkenin toplamı" olarak izah edildiğini hatırlayın. Denklemde sol tarafta belirtilen "yaşam", integral işleminin sonucudur. Bu konuda daha pek çok söz söylenebilir. 
